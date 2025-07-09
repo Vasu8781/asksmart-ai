@@ -1,21 +1,31 @@
-# 🤖 AskSmart AI
+# 🦄 AskSmart AI - Gemini Edition
 
-AskSmart AI is a smart, multi-model Generative AI-powered search assistant inspired by Perplexity AI and Google Search.
+**AskSmart AI** is a multi-model AI assistant inspired by Perplexity AI and Google Search.  
+It uses Google Gemini's latest generative AI to deliver smart, fast, and human-like answers to any question.
 
-## 🌟 Features
-- Built using **Python** and **Streamlit**
-- Powered by **Google Gemini Pro**
-- Clean UI with instant answers to user questions
-- Easy to run locally and deploy
+---
 
-## 🛠️ Tech Stack
-- Python
-- Streamlit
-- Google Generative AI API (`gemini-pro`)
+## ✨ Features
 
-## 🚀 How to Run
+- 💬 Asks questions and gets AI-powered answers using Gemini 1.5 Flash
+- 🧠 Clean UI with Streamlit, auto-clears search input after submit
+- 🔒 Gemini API key is kept local (not exposed publicly)
+- 💡 Ready to deploy and showcase
 
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/AskSmart-AI.git
-cd AskSmart-AI
+---
+
+## 🛠️ Built With
+
+- **Python** 🐍  
+- **Streamlit** 🎈  
+- **Google Gemini API**  
+- **Requests & JSON**
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/Vasu8781/asksmart-ai.git
+   cd asksmart-ai
