@@ -1,4 +1,5 @@
 # 🦄 AskSmart AI - Gemini Edition
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://asksmart-ai-seuqlsfcdyhbb35ju8atcu.streamlit.app/)
 
 **AskSmart AI** is a multi-model AI assistant inspired by Perplexity AI and Google Search.  
 It uses Google Gemini's latest generative AI to deliver smart, fast, and human-like answers to any question.
